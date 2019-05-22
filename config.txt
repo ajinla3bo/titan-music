@@ -1,6 +1,5 @@
 token=NTgwNzgzODc4ODg5OTMwNzYy.XOVvLw.A81lVaQCiKDG2xddjMuZR65vTic
-owner=473837190145900575 
-owner=325616562310742016
+owner=473837190145900575
 prefix=$
 game=$help l by Ajinla3bo & Joe
 stayinchannel=true
