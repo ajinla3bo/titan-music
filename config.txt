@@ -1,6 +1,6 @@
 token=NTgwNzgzODc4ODg5OTMwNzYy.XOV3rA.cUrMgum5OFuz5TKA0giB9xC10F4
 owner=473837190145900575
 prefix=$
-game=$help l by Ajinla3bo & Joe
+game=$help l by Ajinla3bo
 stayinchannel=true
 songinstatus=true
