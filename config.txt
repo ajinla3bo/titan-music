@@ -1,4 +1,4 @@
-token=NTgzNzMwNzE1MzYzOTAxNDYy.XPAnnA.A5gIunTBXyeghk6BWl4vtNL5Pzk
+token=NTgwNzgzODc4ODg5OTMwNzYy.XPZhKw.pW0cfPoFKGTT9bOFc6HWXUA0cZI
 owner=473837190145900575
 prefix=$
 game=$help l by Ajinla3bo
